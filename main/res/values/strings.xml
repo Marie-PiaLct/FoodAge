@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FoodAge</string>
+    <string name="activity_pref">Preference</string>
+    <string-array name="age_array">
+        <item>Bebe</item>
+        <item>Enfant</item>
+        <item>Adolescent</item>
+    </string-array>
+
+    <string-array name="type_array">
+        <item>Entrée</item>
+        <item>Plats</item>
+        <item>Dessert</item>
+    </string-array>
+
+    <string-array name="occasion_array">
+        <item>Aucune</item>
+        <item>Anniversaire</item>
+        <item>Noël</item>
+    </string-array>
+</resources>
